@@ -14,10 +14,10 @@ Our tutorial
 
 
 ## Case studies
-TODO
+[Spatial Models in Stan: Intrinsic Auto-Regressive Models for Areal Data](https://mc-stan.org/users/documentation/case-studies/icar_stan.html)
 
 ## Epidemiology papers
-For a list of epidemiology papers using Stan, see [here](https://leogrin.github.io/papers)
+For a list of epidemiology papers using Stan, see [here](https://leogrin.github.io/papers), and [here](https://discourse.mc-stan.org/t/stan-being-used-to-study-and-fight-coronavirus/14296/14) for an updated list of examples specifically on Covid-19.
 
 ## More ressources on ODE in Stan
 [Differential Equations Based Models in Stan](https://mc-stan.org/events/stancon2017-notebooks/stancon2017-margossian-gillespie-ode.html)
