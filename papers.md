@@ -29,7 +29,6 @@ Stefano Cabras, [El Virus de la corona](https://scabras.github.io/cvirus/index.h
 Uni Iceland modeling group, https://rpubs.com/bgautijonsson/HierarchicalLogisticGrowthCurves (dead link ??), 2020.
 
 
-
 ## Estimating SARS-COV-2 properties
 
 Mizumoto Kenji, Kagaya Katsushi, Zarebski Alexander, Chowell Gerardo. [Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020.](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.10.2000180) Euro Surveill. 2020;25(10):pii=2000180.
@@ -53,4 +52,8 @@ van Doremalen, Neeltje and Bushmaker, Trenton and Morris, Dylan H. and Holbrook,
 Julien Riou, Matthias Egger, Christian Althaus - [The emergence of HIV resistance to antiretroviral therapy in southern Africa: a mechanistic meta-analysis of survey data.](https://www.youtube.com/watch?v=KH4jN9EBTtE), StanCon 2019.
 
 Christopher Jackson, Anne Presanis - [Estimating the prevalence of HIV infection in England using Bayesian evidence synthesis.](https://www.youtube.com/watch?v=KH4jN9EBTtE), StanCon 2019. 
+
+# Tutorial papers
+
+Anastasia Chatzilena, Edwin van Leeuwen, Oliver Ratmann, Marc Baguelin, Nikolaos Demiris, [Contemporary statistical inference for infectious disease models using Stan](https://doi.org/10.1016/j.epidem.2019.100367), Epidemics, Volume 29, 2019.
 
