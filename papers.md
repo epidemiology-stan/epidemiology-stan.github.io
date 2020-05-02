@@ -1,7 +1,8 @@
 # General
 
-Marnie Downes, Lyle C Gurrin, Dallas R English, Jane Pirkis, Dianne Currier, Matthew J Spittal, John B Carlin, [Multilevel Regression and Poststratification: A Modeling Approach to Estimating Population Quantities From Highly Selected Survey Samples](https://academic.oup.com/aje/article/187/8/1780/4964985), American Journal of Epidemiology, Volume 187, Issue 8, August 2018, Pages 1780–1790, https://doi.org/10.1093/aje/kwy070
+Marnie Downes, Lyle C Gurrin, Dallas R English, Jane Pirkis, Dianne Currier, Matthew J Spittal, John B Carlin, [Multilevel Regression and Poststratification: A Modeling Approach to Estimating Population Quantities From Highly Selected Survey Samples](https://doi.org/10.1093/aje/kwy070), American Journal of Epidemiology, Volume 187, Issue 8, August 2018, Pages 1780–1790.
 
+Julien Riou, Chiara Poletto, Pierre-Yves Boëlle, [A comparative analysis of Chikungunya and Zika transmission](https://www.sciencedirect.com/science/article/pii/S1755436517300014), Epidemics, Volume 19, 2017.
 
 
 # Covid-19
@@ -33,6 +34,11 @@ Uni Iceland modeling group, https://rpubs.com/bgautijonsson/HierarchicalLogistic
 
 Mizumoto Kenji, Kagaya Katsushi, Zarebski Alexander, Chowell Gerardo. [Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020.](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.10.2000180) Euro Surveill. 2020;25(10):pii=2000180.
 
+## Estimating prevalence
+
+Andrew Gelman, [Simple Bayesian analysis inference of coronavirus infection rate from the Stanford study in Santa Clara county](https://statmodeling.stat.columbia.edu/2020/05/01/simple-bayesian-analysis-inference-of-coronavirus-infection-rate-from-the-stanford-study-in-santa-clara-county/), 2020.
+
+
 ## RCT
 [Resources for COVID-19 Randomized Clinical Trial Design
 ](http://hbiostat.org/proj/covid19/)
@@ -41,4 +47,10 @@ Mizumoto Kenji, Kagaya Katsushi, Zarebski Alexander, Chowell Gerardo. [Estimatin
 Fischer et al., [Assessment of N95 respirator decontamination and re-use for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.04.11.20062018v1.full.pdf), 2020.
 
 van Doremalen, Neeltje and Bushmaker, Trenton and Morris, Dylan H. and Holbrook, Myndi G. and Gamble, Amandine and Williamson, Brandi N. and Tamin, Azaibi and Harcourt, Jennifer L. and Thornburg, Natalie J. and Gerber, Susan I. and Lloyd-Smith, James O. and de Wit, Emmie and Munster, Vincent J., [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/10.1056/NEJMc2004973), 2020.
+
+# Talks:
+
+Julien Riou, Matthias Egger, Christian Althaus - [The emergence of HIV resistance to antiretroviral therapy in southern Africa: a mechanistic meta-analysis of survey data.](https://www.youtube.com/watch?v=KH4jN9EBTtE), StanCon 2019.
+
+Christopher Jackson, Anne Presanis - [Estimating the prevalence of HIV infection in England using Bayesian evidence synthesis.](https://www.youtube.com/watch?v=KH4jN9EBTtE), StanCon 2019. 
 
