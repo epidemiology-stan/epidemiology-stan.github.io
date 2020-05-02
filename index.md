@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Stan for epidemiology
 
-You can use the [editor on GitHub](https://github.com/LeoGrin/LeoGrin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome! The Stan epidemiology page is meant to serve as a centralized location for all types of work in epidemiology that use the software Stan for Bayesian inference. As a community, we can share our work with each other and learn from each other as well! Anyone can contribute helpful resources, papers, posters or anything else epidemiology-related that makes use of Stan, regardless of the level, through the Stan epidemiology GitHub page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To ask Stan-related questions, please go to https://discourse.mc-stan.org/. More specifically, we can all use the Epidemiology or covid-19 tags to ensure that posts are seen by anyone interested in epidemiology problems as well. See https://discourse.mc-stan.org/tag/epidemiology, https://discourse.mc-stan.org/tag/covid-19
 
-### Markdown
+## Tutorials
+[Contemporary statistical inference for infectious disease models using Stan](https://www.sciencedirect.com/science/article/pii/S1755436519300325?via%3Dihub)
+[Estimating transmission by fitting mechanistric models in Stan](https://jrmihalj.github.io/estimating-transmission-by-fitting-mechanistic-models-in-Stan/)
+Our tutorial
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Case studies
+TODO
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeoGrin/LeoGrin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Epidemiology papers
+For a list of epidemiology papers using Stan, see [here](https://leogrin.github.io/papers)
