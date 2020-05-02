@@ -16,4 +16,9 @@ TODO
 
 ## Epidemiology papers
 For a list of epidemiology papers using Stan, see [here](https://leogrin.github.io/papers)
-kdfjksffdsj
+
+## More ressources for ODE in Stan
+[Differential Equations Based Models in Stan](https://mc-stan.org/events/stancon2017-notebooks/stancon2017-margossian-gillespie-ode.html)
+[Solving ODEs in the wild: Scalable pharmacometrics with Stan](https://zenodo.org/record/1465996)
+[Predator-Prey Population Dynamics:
+the Lotka-Volterra model in Stan](https://mc-stan.org/users/documentation/case-studies/lotka-volterra-predator-prey.html)
