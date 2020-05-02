@@ -5,11 +5,13 @@ Welcome! The Stan epidemiology page is meant to serve as a centralized location 
 To ask Stan-related questions, please go to https://discourse.mc-stan.org/. More specifically, we can all use the epidemiology or covid-19 tags to ensure that posts are seen by anyone interested in epidemiology problems as well. See https://discourse.mc-stan.org/tag/epidemiology, https://discourse.mc-stan.org/tag/covid-19
 
 ## Tutorials
+
+Our tutorial
+
 [Contemporary statistical inference for infectious disease models using Stan](https://www.sciencedirect.com/science/article/pii/S1755436519300325?via%3Dihub)
 
 [Estimating transmission by fitting mechanistric models in Stan](https://jrmihalj.github.io/estimating-transmission-by-fitting-mechanistic-models-in-Stan/)
 
-Our tutorial
 
 ## Case studies
 TODO
@@ -17,7 +19,7 @@ TODO
 ## Epidemiology papers
 For a list of epidemiology papers using Stan, see [here](https://leogrin.github.io/papers)
 
-## More ressources for ODE in Stan
+## More ressources on ODE in Stan
 [Differential Equations Based Models in Stan](https://mc-stan.org/events/stancon2017-notebooks/stancon2017-margossian-gillespie-ode.html)
 
 [Solving ODEs in the wild: Scalable pharmacometrics with Stan](https://zenodo.org/record/1465996)
