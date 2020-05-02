@@ -6,7 +6,9 @@ To ask Stan-related questions, please go to https://discourse.mc-stan.org/. More
 
 ## Tutorials
 [Contemporary statistical inference for infectious disease models using Stan](https://www.sciencedirect.com/science/article/pii/S1755436519300325?via%3Dihub)
+
 [Estimating transmission by fitting mechanistric models in Stan](https://jrmihalj.github.io/estimating-transmission-by-fitting-mechanistic-models-in-Stan/)
+
 Our tutorial
 
 ## Case studies
