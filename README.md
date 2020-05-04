@@ -16,6 +16,9 @@ Our tutorial
 ## Case studies
 [Spatial Models in Stan: Intrinsic Auto-Regressive Models for Areal Data](https://mc-stan.org/users/documentation/case-studies/icar_stan.html)
 
+[Experience of using the Stan software for Bayesian
+inference in HIV epidemiology](https://www.ucl.ac.uk/population-health-sciences/sites/population-health-sciences/files/stirrup_nash_3april2019_0.pdf)
+
 ## Epidemiology papers
 For a list of epidemiology papers using Stan, see [here](https://leogrin.github.io/papers), and [here](https://discourse.mc-stan.org/t/stan-being-used-to-study-and-fight-coronavirus/14296/14) for an updated list of examples specifically on Covid-19.
 
