@@ -12,7 +12,7 @@ Sreenath Madathil, Lawrence Joseph, Rebecca Hardy, Marie-Claude Rousseau, Belind
 
 APA Brilleman, Samuel L.a,b; Howe, Laura D.c,d; Wolfe, Rorya,b; Tilling, Katec,d [Bayesian Piecewise Linear Mixed Models With a Random Change Point](https://journals.lww.com/epidem/fulltext/2017/11000/Bayesian_Piecewise_Linear_Mixed_Models_With_a.10.aspx), Epidemiology: November 2017 - Volume 28 - Issue 6 - p 827-833
 
-Diarra, Issa & Nurtop, Elif & Sangaré, Abdoul & Sagara, Issaka & Pastorino, Boris & Sacko, Souleymane & Zeguimé, Amatigué & Coulibaly, Drissa & Fofana, Bakary & Gallian, Pierre & Priet, Stéphane & Drexler, Jan & Dabo, Abdoulaye & Thera, Mahamadou & Djimdé, Abdoulaye & Kouriba, Bourèma & Cauchemez, Simon & Lamballerie, Xavier & Doumbo, Ogobara. [Zika Virus Circulation in Mali.](https://www.researchgate.net/publication/341080972_Zika_Virus_Circulation_in_Mali). Emerging infectious diseases. 2020.
+Diarra, Issa & Nurtop, Elif & Sangaré, Abdoul & Sagara, Issaka & Pastorino, Boris & Sacko, Souleymane & Zeguimé, Amatigué & Coulibaly, Drissa & Fofana, Bakary & Gallian, Pierre & Priet, Stéphane & Drexler, Jan & Dabo, Abdoulaye & Thera, Mahamadou & Djimdé, Abdoulaye & Kouriba, Bourèma & Cauchemez, Simon & Lamballerie, Xavier & Doumbo, Ogobara. [Zika Virus Circulation in Mali.](https://www.researchgate.net/publication/341080972_Zika_Virus_Circulation_in_Mali) Emerging infectious diseases. 2020.
 
 Jon Brugger, Christian L. Althaus, [Transmission of and susceptibility to seasonal influenza in Switzerland from 2003 to 2015](https://doi.org/10.1016/j.epidem.2019.100373), Epidemics, Volume 30, 2020.
 
