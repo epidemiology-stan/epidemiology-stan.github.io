@@ -2,7 +2,29 @@
 
 Marnie Downes, Lyle C Gurrin, Dallas R English, Jane Pirkis, Dianne Currier, Matthew J Spittal, John B Carlin, [Multilevel Regression and Poststratification: A Modeling Approach to Estimating Population Quantities From Highly Selected Survey Samples](https://doi.org/10.1093/aje/kwy070), American Journal of Epidemiology, Volume 187, Issue 8, August 2018, Pages 1780–1790.
 
+Morris, Mitzi & Wheeler-Martin, Katherine & Simpson, Dan & Mooney, Stephen & Gelman, Andrew & Dimaggio, Charles. (2019). [Bayesian Hierarchical Spatial Models: Implementing the Besag York Mollié Model in Stan.](https://www.researchgate.net/publication/335146143_Bayesian_Hierarchical_Spatial_Models_Implementing_the_Besag_York_Mollie_Model_in_Stan) Spatial and Spatio-temporal Epidemiology. 31.
+
 Julien Riou, Chiara Poletto, Pierre-Yves Boëlle, [A comparative analysis of Chikungunya and Zika transmission](https://www.sciencedirect.com/science/article/pii/S1755436517300014), Epidemics, Volume 19, 2017.
+
+MacLehose, R.F., Hamra, G.B. [Applications of Bayesian Methods to Epidemiologic Research.](https://doi.org/10.1007/s40471-014-0019-z) Curr Epidemiol Rep 1, 103–109 (2014). 
+
+Sreenath Madathil, Lawrence Joseph, Rebecca Hardy, Marie-Claude Rousseau, Belinda Nicolau, [A Bayesian approach to investigate life course hypotheses involving continuous exposures](https://doi.org/10.1093/ije/dyy107), International Journal of Epidemiology, Volume 47, Issue 5, October 2018, Pages 1623–1635.
+
+APA Brilleman, Samuel L.a,b; Howe, Laura D.c,d; Wolfe, Rorya,b; Tilling, Katec,d [Bayesian Piecewise Linear Mixed Models With a Random Change Point](https://journals.lww.com/epidem/fulltext/2017/11000/Bayesian_Piecewise_Linear_Mixed_Models_With_a.10.aspx), Epidemiology: November 2017 - Volume 28 - Issue 6 - p 827-833
+
+Diarra, Issa & Nurtop, Elif & Sangaré, Abdoul & Sagara, Issaka & Pastorino, Boris & Sacko, Souleymane & Zeguimé, Amatigué & Coulibaly, Drissa & Fofana, Bakary & Gallian, Pierre & Priet, Stéphane & Drexler, Jan & Dabo, Abdoulaye & Thera, Mahamadou & Djimdé, Abdoulaye & Kouriba, Bourèma & Cauchemez, Simon & Lamballerie, Xavier & Doumbo, Ogobara. [Zika Virus Circulation in Mali.](https://www.researchgate.net/publication/341080972_Zika_Virus_Circulation_in_Mali). Emerging infectious diseases. 2020.
+
+Jon Brugger, Christian L. Althaus, [Transmission of and susceptibility to seasonal influenza in Switzerland from 2003 to 2015](https://doi.org/10.1016/j.epidem.2019.100373), Epidemics, Volume 30, 2020.
+
+Lewis J, White PJ. [Estimating Local Chlamydia Incidence and Prevalence Using Surveillance Data.] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5457828/)Epidemiology. 2017.
+
+Nyaga, V., Marc, A. & Marc, A. [Marginal models for meta-analysis of diagnostic accuracy studies in frequentist and Bayesian framework using rstan and CopulaREMADA.](https://doi.org/10.1186/2049-3258-73-S1-O4) Arch Public Health 73, O4 (2015). 
+
+Fernandez-Pujals AM, Adams MJ, Thomson P, et al. [Epidemiology and Heritability of Major Depressive Disorder, Stratified by Age of Onset, Sex, and Illness Course in Generation Scotland: Scottish Family Health Study (GS:SFHS).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4646689/) PLoS One. 2015.
+
+Riou J, Poletto C, Boëlle PY. [Improving early epidemiological assessment of emerging Aedes-transmitted epidemics using historical data.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6002135/) PLoS Negl Trop Dis. 2018.
+
+Rodriguez-Barraquer I, Salje H, Cummings DA. [Opportunities for improved surveillance and control of dengue from age-specific case data.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6579519/) Elife. 2019.
 
 
 # Covid-19
