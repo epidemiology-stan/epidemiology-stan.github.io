@@ -16,7 +16,7 @@ Diarra, Issa & Nurtop, Elif & Sangaré, Abdoul & Sagara, Issaka & Pastorino, Bor
 
 Jon Brugger, Christian L. Althaus, [Transmission of and susceptibility to seasonal influenza in Switzerland from 2003 to 2015](https://doi.org/10.1016/j.epidem.2019.100373), Epidemics, Volume 30, 2020.
 
-Lewis J, White PJ. [Estimating Local Chlamydia Incidence and Prevalence Using Surveillance Data.] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5457828/)Epidemiology. 2017.
+Lewis J, White PJ. [Estimating Local Chlamydia Incidence and Prevalence Using Surveillance Data.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5457828/) Epidemiology. 2017.
 
 Nyaga, V., Marc, A. & Marc, A. [Marginal models for meta-analysis of diagnostic accuracy studies in frequentist and Bayesian framework using rstan and CopulaREMADA.](https://doi.org/10.1186/2049-3258-73-S1-O4) Arch Public Health 73, O4 (2015). 
 
