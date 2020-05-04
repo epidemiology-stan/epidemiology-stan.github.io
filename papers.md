@@ -1,4 +1,4 @@
-# General
+# General (see below for Covid-19 papers)
 
 Marnie Downes, Lyle C Gurrin, Dallas R English, Jane Pirkis, Dianne Currier, Matthew J Spittal, John B Carlin, [Multilevel Regression and Poststratification: A Modeling Approach to Estimating Population Quantities From Highly Selected Survey Samples](https://doi.org/10.1093/aje/kwy070), American Journal of Epidemiology, Volume 187, Issue 8, August 2018, Pages 1780–1790.
 
