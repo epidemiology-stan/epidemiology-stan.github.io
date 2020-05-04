@@ -2,7 +2,7 @@
 
 Marnie Downes, Lyle C Gurrin, Dallas R English, Jane Pirkis, Dianne Currier, Matthew J Spittal, John B Carlin, [Multilevel Regression and Poststratification: A Modeling Approach to Estimating Population Quantities From Highly Selected Survey Samples](https://doi.org/10.1093/aje/kwy070), American Journal of Epidemiology, Volume 187, Issue 8, August 2018, Pages 1780–1790.
 
-Morris, Mitzi & Wheeler-Martin, Katherine & Simpson, Dan & Mooney, Stephen & Gelman, Andrew & Dimaggio, Charles. (2019). [Bayesian Hierarchical Spatial Models: Implementing the Besag York Mollié Model in Stan.](https://www.researchgate.net/publication/335146143_Bayesian_Hierarchical_Spatial_Models_Implementing_the_Besag_York_Mollie_Model_in_Stan) Spatial and Spatio-temporal Epidemiology. 31.
+Morris, Mitzi & Wheeler-Martin, Katherine & Simpson, Dan & Mooney, Stephen & Gelman, Andrew & Dimaggio, Charles. [Bayesian Hierarchical Spatial Models: Implementing the Besag York Mollié Model in Stan.](https://www.researchgate.net/publication/335146143_Bayesian_Hierarchical_Spatial_Models_Implementing_the_Besag_York_Mollie_Model_in_Stan) Spatial and Spatio-temporal Epidemiology. 2019.
 
 Julien Riou, Chiara Poletto, Pierre-Yves Boëlle, [A comparative analysis of Chikungunya and Zika transmission](https://www.sciencedirect.com/science/article/pii/S1755436517300014), Epidemics, Volume 19, 2017.
 
