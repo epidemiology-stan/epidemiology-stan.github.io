@@ -12,6 +12,10 @@ Our tutorial
 
 [Estimating transmission by fitting mechanistric models in Stan](https://jrmihalj.github.io/estimating-transmission-by-fitting-mechanistic-models-in-Stan/)
 
+[Estimating Joint Models for Longitudinal and Time-to-Event Data with rstanarm](https://cran.r-project.org/web/packages/rstanarm/vignettes/jm.html)
+
+[Bayesian Survival Analysis 1: Weibull Model with Stan](https://rstudio-pubs-static.s3.amazonaws.com/435225_07b4ab5afa824342a4680c9fb2de6098.html)
+
 
 ## Case studies
 [Spatial Models in Stan: Intrinsic Auto-Regressive Models for Areal Data](https://mc-stan.org/users/documentation/case-studies/icar_stan.html)
@@ -20,7 +24,7 @@ Our tutorial
 inference in HIV epidemiology](https://www.ucl.ac.uk/population-health-sciences/sites/population-health-sciences/files/stirrup_nash_3april2019_0.pdf)
 
 ## Epidemiology papers
-For a list of epidemiology papers using Stan, see [here](https://leogrin.github.io/papers), and [here](https://discourse.mc-stan.org/t/stan-being-used-to-study-and-fight-coronavirus/14296/14) for an updated list of examples specifically on Covid-19.
+For a list of epidemiology papers using Stan, see [here](https://leogrin.github.io/papers). You can also find [here](https://discourse.mc-stan.org/t/stan-being-used-to-study-and-fight-coronavirus/14296/14) an updated list of papers specifically on Covid-19.
 
 ## More ressources on ODE in Stan
 [Differential Equations Based Models in Stan](https://mc-stan.org/events/stancon2017-notebooks/stancon2017-margossian-gillespie-ode.html)
