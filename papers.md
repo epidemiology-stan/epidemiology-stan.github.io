@@ -51,13 +51,19 @@ Stefano Cabras, [El Virus de la corona](https://scabras.github.io/cvirus/index.h
 Uni Iceland modeling group, https://rpubs.com/bgautijonsson/HierarchicalLogisticGrowthCurves (dead link ??), 2020.
 
 
-## Estimating SARS-COV-2 properties
+## Estimating asymptomatic proportion
 
 Mizumoto Kenji, Kagaya Katsushi, Zarebski Alexander, Chowell Gerardo. [Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020.](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.10.2000180) Euro Surveill. 2020;25(10):pii=2000180.
 
 ## Estimating prevalence
 
+Jérôme Levesque and David W. Maybury, [A note on COVID-19 seroprevalence studies: a
+meta-analysis using hierarchical modelling](https://maybury.ca/the-reformed-physicist/wp-content/uploads/2020/05/Levesque_Maybury_sero.pdf), 2020.
+
 Andrew Gelman, [Simple Bayesian analysis inference of coronavirus infection rate from the Stanford study in Santa Clara county](https://statmodeling.stat.columbia.edu/2020/05/01/simple-bayesian-analysis-inference-of-coronavirus-infection-rate-from-the-stanford-study-in-santa-clara-county/), 2020.
+
+Andrew Gelman, [Bayesian analysis of Santa Clara study: Run it yourself in Google Collab, play around with the model, etc!](https://statmodeling.stat.columbia.edu/2020/05/04/bayesian-analysis-of-santa-clara-study-run-it-yourself-in-google-collab-play-around-with-the-model-etc/), 2020.
+
 
 
 ## RCT
