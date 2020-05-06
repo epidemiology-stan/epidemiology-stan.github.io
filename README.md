@@ -6,7 +6,7 @@ To ask Stan-related questions, please go to https://discourse.mc-stan.org/. More
 
 ## Tutorials
 
-Our tutorial
+[Bayesian workflow for disease transmission modeling in Stan](https://mc-stan.org/users/documentation/case-studies/boarding_school_case_study.html)
 
 [Contemporary statistical inference for infectious disease models using Stan](https://www.sciencedirect.com/science/article/pii/S1755436519300325?via%3Dihub)
 
