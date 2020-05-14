@@ -48,8 +48,6 @@ Yoriyuki Yamagata, [Bayesian modeling of Covid-19 epidemic: Japanese case](https
 
 Stefano Cabras, [El Virus de la corona](https://scabras.github.io/cvirus/index.html#model-for-marginal-counts-cases), 2020.
 
-Uni Iceland modeling group, https://rpubs.com/bgautijonsson/HierarchicalLogisticGrowthCurves (dead link ??), 2020.
-
 
 ## Estimating asymptomatic proportion
 
