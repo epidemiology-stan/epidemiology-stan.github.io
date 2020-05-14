@@ -25,10 +25,3 @@ inference in HIV epidemiology](https://www.ucl.ac.uk/population-health-sciences/
 ## Epidemiology papers
 For a list of epidemiology papers using Stan, see [here](https://github.com/epidemiology-stan/Home/blob/master/papers.md). You can also find [here](https://discourse.mc-stan.org/t/stan-being-used-to-study-and-fight-coronavirus/14296/14) an updated list of papers specifically on Covid-19.
 
-## More ressources on ODE in Stan
-[Differential Equations Based Models in Stan](https://mc-stan.org/events/stancon2017-notebooks/stancon2017-margossian-gillespie-ode.html)
-
-[Solving ODEs in the wild: Scalable pharmacometrics with Stan](https://zenodo.org/record/1465996)
-
-[Predator-Prey Population Dynamics:
-the Lotka-Volterra model in Stan](https://mc-stan.org/users/documentation/case-studies/lotka-volterra-predator-prey.html)
