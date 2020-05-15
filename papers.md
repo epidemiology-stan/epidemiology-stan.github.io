@@ -42,7 +42,7 @@ Kubinec, Robert, and Luiz Carvalho. [“A Retrospective Bayesian Model for Measu
 
 Woody, Spencer and Garcia Tec, Mauricio and Dahan, Maytal and Gaither, Kelly and Lachmann, Michael and Fox, Spencer and Meyers, Lauren Ancel and Scott, James G}, [Projections for first-wave COVID-19 deaths across the US using social-distancing measures derived from mobile phones, Cold Spring Harbor Laboratory Press](https://www.medrxiv.org/content/early/2020/04/26/2020.04.16.20068163), 2020.
 
-Kucinskas, Simas, [Tracking R of COVID-19](https://ssrn.com/abstract=3581633)(May 1, 2020)
+Kucinskas, Simas, [Tracking R of COVID-19](https://ssrn.com/abstract=3581633), 2020.
 
 Yoriyuki Yamagata, [Bayesian modeling of Covid-19 epidemic: Japanese case](https://github.com/yoriyuki/BayesianCOVID19/blob/master/paper/BayesianCOVID-19.pdf), 2020.
 
@@ -51,7 +51,7 @@ Stefano Cabras, [El Virus de la corona](https://scabras.github.io/cvirus/index.h
 
 ## Estimating asymptomatic proportion
 
-Mizumoto Kenji, Kagaya Katsushi, Zarebski Alexander, Chowell Gerardo. [Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020.](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.10.2000180) Euro Surveill. 2020;25(10):pii=2000180.
+Mizumoto Kenji, Kagaya Katsushi, Zarebski Alexander, Chowell Gerardo. [Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020.](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.10.2000180) Euro Surveill. 2020.
 
 ## Estimating prevalence
 
