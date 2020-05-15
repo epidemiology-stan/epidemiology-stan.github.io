@@ -1,6 +1,6 @@
 # Stan for epidemiology
 
-The Stan epidemiology page is meant to serve as a centralized location for all types of work in epidemiology that use the software Stan for Bayesian inference. Anyone can contribute helpful resources, papers, posters or anything else epidemiology-related that makes use of Stan, regardless of the level, through the Stan epidemiology GitHub page.
+The Stan epidemiology page is meant to serve as a centralized location for all types of work in epidemiology that use the software Stan for Bayesian inference. Anyone can contribute helpful resources, papers, posters or anything else epidemiology-related that makes use of Stan, regardless of the level, through the Stan epidemiology GitHub page [![Contribution](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/epidemiology-stan/epidemiology-stan.github.io).
 
 To ask Stan-related questions, please go to [the Stan forum](https://discourse.mc-stan.org/). More specifically, you can use the [epidemiology](https://discourse.mc-stan.org/tag/epidemiology) or [covid-19](https://discourse.mc-stan.org/tag/covid-19) tags to ensure that posts are seen by anyone interested in epidemiology problems as well.
 
