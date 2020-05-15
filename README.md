@@ -23,5 +23,5 @@ inference in HIV epidemiology](https://www.ucl.ac.uk/population-health-sciences/
 
 
 ## Epidemiology papers
-For a list of epidemiology papers using Stan, see [here](epidemiology-stan.github.io/papers). You can also find [here](https://discourse.mc-stan.org/t/stan-being-used-to-study-and-fight-coronavirus/14296/14) an updated list of papers specifically on Covid-19.
+For a list of epidemiology papers using Stan, see [here](https://epidemiology-stan.github.io/papers). You can also find [here](https://discourse.mc-stan.org/t/stan-being-used-to-study-and-fight-coronavirus/14296/14) an updated list of papers specifically on Covid-19.
 
