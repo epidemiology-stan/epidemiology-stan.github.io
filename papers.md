@@ -58,7 +58,9 @@ Mizumoto Kenji, Kagaya Katsushi, Zarebski Alexander, Chowell Gerardo. [Estimatin
 Jérôme Levesque and David W. Maybury, [A note on COVID-19 seroprevalence studies: a
 meta-analysis using hierarchical modelling](https://maybury.ca/the-reformed-physicist/wp-content/uploads/2020/05/Levesque_Maybury_sero.pdf), 2020.
 
-Andrew Gelman, [Simple Bayesian analysis inference of coronavirus infection rate from the Stanford study in Santa Clara county](https://statmodeling.stat.columbia.edu/2020/05/01/simple-bayesian-analysis-inference-of-coronavirus-infection-rate-from-the-stanford-study-in-santa-clara-county/), 2020.
+Andrew Gelman and Bob Carpenter, [Bayesian analysis of tests with unknown specificity and sensitivity](http://www.stat.columbia.edu/~gelman/research/unpublished/specificity.pdf), 2020.
+
+Andrew Gelman, [Simple Bayesian analysis inference of coronavirus infection rate from the Stanford study in Santa Clara county](https://statmodeling.stat.columbia.edu/2020/05/01/simple-bayesian-analysis-inference-of-coronavirus-infection-rate-from-the-stanford-study-in-santa-clara-county/), 2020. Code and more [here](https://bob-carpenter.github.io/diagnostic-testing/).
 
 Andrew Gelman, [Bayesian analysis of Santa Clara study: Run it yourself in Google Collab, play around with the model, etc!](https://statmodeling.stat.columbia.edu/2020/05/04/bayesian-analysis-of-santa-clara-study-run-it-yourself-in-google-collab-play-around-with-the-model-etc/), 2020.
 
