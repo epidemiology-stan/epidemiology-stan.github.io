@@ -64,7 +64,9 @@ Andrew Gelman, [Simple Bayesian analysis inference of coronavirus infection rate
 
 Andrew Gelman, [Bayesian analysis of Santa Clara study: Run it yourself in Google Collab, play around with the model, etc!](https://statmodeling.stat.columbia.edu/2020/05/04/bayesian-analysis-of-santa-clara-study-run-it-yourself-in-google-collab-play-around-with-the-model-etc/), 2020.
 
-## RCT
+## Clinical trials
+Frank Harrel and Ben Goodrich (?), [Sequential Bayesian Designs for Rapid Learning in COVID-19 Clinical Trials](https://www.fharrell.com/talk/seqbayes/), 2020.
+
 [Resources for COVID-19 Randomized Clinical Trial Design
 ](http://hbiostat.org/proj/covid19/)
 
