@@ -55,6 +55,8 @@ Mizumoto Kenji, Kagaya Katsushi, Zarebski Alexander, Chowell Gerardo. [Estimatin
 
 ## Estimating prevalence
 
+Campbell et al., [Bayesian adjustment for preferential testing in estimating the COVID-19 infection fatality rate: Theory and methods](https://arxiv.org/abs/2005.08459), 2020.
+
 Jérôme Levesque and David W. Maybury, [A note on COVID-19 seroprevalence studies: a
 meta-analysis using hierarchical modelling](https://maybury.ca/the-reformed-physicist/wp-content/uploads/2020/05/Levesque_Maybury_sero.pdf), 2020.
 
