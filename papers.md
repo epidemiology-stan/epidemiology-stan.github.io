@@ -40,7 +40,7 @@ Du Z, Wang L, Cauchemez S, et al. [Risk for Transportation of Coronavirus Diseas
 
 Kubinec, Robert, and Luiz Carvalho. [“A Retrospective Bayesian Model for Measuring Covariate Effects on Observed COVID-19 Test and Case Counts.”](https://osf.io/preprints/socarxiv/jp4wk) SocArXiv, 1 Apr. 2020. Web.
 
-Woody, Spencer and Garcia Tec, Mauricio and Dahan, Maytal and Gaither, Kelly and Lachmann, Michael and Fox, Spencer and Meyers, Lauren Ancel and Scott, James G}, [Projections for first-wave COVID-19 deaths across the US using social-distancing measures derived from mobile phones, Cold Spring Harbor Laboratory Press](https://www.medrxiv.org/content/early/2020/04/26/2020.04.16.20068163), 2020.
+Woody, Spencer and Garcia Tec, Mauricio and Dahan, Maytal and Gaither, Kelly and Lachmann, Michael and Fox, Spencer and Meyers, Lauren Ancel and Scott, James G, [Projections for first-wave COVID-19 deaths across the US using social-distancing measures derived from mobile phones, Cold Spring Harbor Laboratory Press](https://www.medrxiv.org/content/early/2020/04/26/2020.04.16.20068163), 2020.
 
 Kucinskas, Simas, [Tracking R of COVID-19](https://ssrn.com/abstract=3581633), 2020.
 
