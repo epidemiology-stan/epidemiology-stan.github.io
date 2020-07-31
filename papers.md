@@ -48,6 +48,9 @@ Yoriyuki Yamagata, [Bayesian modeling of Covid-19 epidemic: Japanese case](https
 
 Stefano Cabras, [El Virus de la corona](https://scabras.github.io/cvirus/index.html#model-for-marginal-counts-cases), 2020.
 
+Gostic et al., [Practical considerations for measuring
+the effective reproductive number, Rt](https://www.medrxiv.org/content/10.1101/2020.06.18.20134858v1.full.pdf), 2020.
+
 
 ## Estimating asymptomatic proportion
 
