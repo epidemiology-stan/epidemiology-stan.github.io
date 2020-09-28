@@ -80,6 +80,8 @@ Fischer et al., [Assessment of N95 respirator decontamination and re-use for SAR
 
 van Doremalen, Neeltje and Bushmaker, Trenton and Morris, Dylan H. and Holbrook, Myndi G. and Gamble, Amandine and Williamson, Brandi N. and Tamin, Azaibi and Harcourt, Jennifer L. and Thornburg, Natalie J. and Gerber, Susan I. and Lloyd-Smith, James O. and de Wit, Emmie and Munster, Vincent J., [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/10.1056/NEJMc2004973), 2020.
 
+Robert Kubinec, Luiz Carvalho, Joan Barceló, Cindy Cheng, Luca Messerschmidt, Derek Duba, Matthew Cottrell, [Fear, Partisanship and the Spread of COVID-19 in the United States](https://osf.io/preprints/socarxiv/jp4wk), 2020.
+
 # Talks:
 
 Julien Riou, Matthias Egger, Christian Althaus - [The emergence of HIV resistance to antiretroviral therapy in southern Africa: a mechanistic meta-analysis of survey data.](https://www.youtube.com/watch?v=KH4jN9EBTtE), StanCon 2019.
