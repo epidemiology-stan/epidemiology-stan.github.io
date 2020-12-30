@@ -51,6 +51,8 @@ Stefano Cabras, [El Virus de la corona](https://scabras.github.io/cvirus/index.h
 Gostic et al., [Practical considerations for measuring
 the effective reproductive number, Rt](https://www.medrxiv.org/content/10.1101/2020.06.18.20134858v1.full.pdf), 2020.
 
+Hiroshi Nishiura, Natalie M. Linton, Andrei R. Akhmetzhanov, [Serial interval of novel coronavirus (COVID-19) infections](https://www.sciencedirect.com/science/article/pii/S1201971220301193), International Journal of Infectious Diseases, 2020. [Stan code here](https://github.com/aakhmetz/COVID19SerialInterval)
+
 
 ## Estimating asymptomatic proportion
 
