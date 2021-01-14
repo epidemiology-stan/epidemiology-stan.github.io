@@ -26,6 +26,7 @@ Riou J, Poletto C, Boëlle PY. [Improving early epidemiological assessment of em
 
 Rodriguez-Barraquer I, Salje H, Cummings DA. [Opportunities for improved surveillance and control of dengue from age-specific case data.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6579519/) Elife. 2019.
 
+Kiang, Mathew V., Nancy Krieger, Caroline O. Buckee, Jukka Pekka Onnela, and Jarvis T. Chen. [Decomposition of the US black/white inequality in premature mortality, 2010–2015: an observational study.](https://bmjopen.bmj.com/content/9/11/e029373) BMJ open 9, no. 11 (2019).
 
 # Covid-19
 
