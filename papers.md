@@ -1,8 +1,9 @@
 # General (see below for Covid-19 papers)
+Annibale Cois, Richard Matzopoulos, Victoria Pillay-van Wyk, Debbie Bradshaw. [Bayesian modelling of population trends in alcohol consumption provides empirically based country estimates for South Africa](https://doi.org/10.1186/s12963-021-00270-3) Population Health Metrics 19(43). 2021.
 
-Victoire Michal, Laís Picinini Freitas Alexandra M. Schmidt [A Bayesian hierarchical model for disease mapping that accounts for scaling and heavy-tailed latent effects](https://arxiv.org/pdf/2109.10330.pdf), 2021.
+Victoire Michal, Laís Picinini Freitas, Alexandra M Schmidt. [A Bayesian hierarchical model for disease mapping that accounts for scaling and heavy-tailed latent effects](https://arxiv.org/pdf/2109.10330.pdf). 2021.
 
-Marnie Downes, Lyle C Gurrin, Dallas R English, Jane Pirkis, Dianne Currier, Matthew J Spittal, John B Carlin, [Multilevel Regression and Poststratification: A Modeling Approach to Estimating Population Quantities From Highly Selected Survey Samples](https://doi.org/10.1093/aje/kwy070), American Journal of Epidemiology, Volume 187, Issue 8, August 2018, Pages 1780–1790.
+Marnie Downes, Lyle C Gurrin, Dallas R English, Jane Pirkis, Dianne Currier, Matthew J Spittal, John B Carlin. [Multilevel Regression and Poststratification: A Modeling Approach to Estimating Population Quantities From Highly Selected Survey Samples](https://doi.org/10.1093/aje/kwy070) American Journal of Epidemiology, Volume 187, Issue 8, August 2018, Pages 1780–1790.
 
 Morris, Mitzi & Wheeler-Martin, Katherine & Simpson, Dan & Mooney, Stephen & Gelman, Andrew & Dimaggio, Charles. [Bayesian Hierarchical Spatial Models: Implementing the Besag York Mollié Model in Stan.](https://www.researchgate.net/publication/335146143_Bayesian_Hierarchical_Spatial_Models_Implementing_the_Besag_York_Mollie_Model_in_Stan) Spatial and Spatio-temporal Epidemiology. 2019.
 
